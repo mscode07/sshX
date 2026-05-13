@@ -1,5 +1,5 @@
 [package]
-name = "sshx"
+name = "mscode-sshx"
 version = "0.1.0"
 edition = "2024"
 description = "Secure SSH identity manager with encrypted local vault storage"

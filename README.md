@@ -39,7 +39,7 @@ Storage Layer
 ##📦 Installation
 
 Install from crates.io
-cargo install sshx
+cargo install mscode-sshx
 Build from source
 git clone https://github.com/mscode07/sshx.git
 cd sshx
