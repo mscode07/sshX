@@ -2,6 +2,14 @@
 name = "sshx"
 version = "0.1.0"
 edition = "2024"
+description = "Secure SSH identity manager with encrypted local vault storage"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/mscode07/sshx"
+homepage = "https://github.com/mscode07/sshx"
+documentation = "https://docs.rs/sshx"
+readme = "README.md"
+keywords = ["ssh", "cli", "security", "encryption", "rust"]
+categories = ["command-line-utilities", "cryptography"]
 
 [dependencies] 
 clap = { version = "4.6.1", features = ["derive"] }
