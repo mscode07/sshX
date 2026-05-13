@@ -1,0 +1,6 @@
+# Ignore Rust build files
+target/
+**/target/
+
+# Optional (depends on your use)
+Cargo.lock
